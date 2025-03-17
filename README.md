@@ -168,3 +168,54 @@
 - XO Checker
 - One-Liner Bitwise Operations in Python
 - World Landmass Proportion Calculator
+
+---
+
+## Mathematical Operations
+### Convert Celsius to Fahrenheit
+
+
+### Convert RGB to Hex
+### Simple Sum
+### Calculate the Area of a Circle
+### Calculate the Power of a Number
+### Sum of Numbers up to a Given Number
+### Sum all Numbers in a List
+### Find the Maximum Value in a List
+### Find the Minimum and Maximum Numbers in a List
+### Calculate the Sum of Squares of a List
+### Calculate the Sum of Cubes of a List
+### Find the Mode of a List of Numbers
+### Generate a Fibonacci Sequence
+### Find the Nth Fibonacci Number (recursive)
+### Find the Nth Fibonacci Number
+### Calculate the Standard Deviation of a List of Numbers
+### Generate multiplication table
+### Calculate PI to N Decimal Places
+### Calculate the Perimeter of a Rectangle
+### Calculate the Exponential of a Number
+### Calculate the Hypotenuse of a Right-Angled Triangle
+### Calculate the Volume of a Sphere
+### Calculate the Volume of a Cylinder
+### Calculate the Volume of a Cube
+### Calculate the Area of a Triangle given the Base and Height
+### Convert Degrees to Radians
+### Convert Feet to Meters
+### Convert Minutes to Seconds
+### Convert Seconds to HH:MM:SS Format
+### Convert Seconds to Minutes and Seconds
+### Convert Seconds to Hours, Minutes, and Seconds
+### Convert Days to Years, Months, and Days
+### Convert Decimal Number to Octal
+### Convert Decimal Number to Hexadecimal
+### Convert Binary Number to Decimal
+### Convert DNA to RNA
+
+---
+
+## Grab your copy:
+| Book Cover |  Digital Book (PDF) | Physical Book |    
+|----|----|----|
+| [<img src="https://github.com/user-attachments/assets/36001965-6f05-426e-bfb8-39d14eb9090a" width="300px">](#) | [<img src="https://github.com/user-attachments/assets/9a6a1546-c29c-4a6c-815d-9150edeb74a7">](hernandoabella.gumroad.com/l/oqsrp) | [<img src="https://github.com/user-attachments/assets/3b79de6e-9469-49ee-aa48-9a283604a648">](https://www.amazon.com/-/es/Hernando-Abella-ebook/dp/B0D442PCLX) |
+
+Made with ❤️ & ☕by [Hernando Abella](https://www.github.com/hernandoabella)
