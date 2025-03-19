@@ -1,4 +1,4 @@
-![GitHub Banners (3)](https://github.com/user-attachments/assets/d72f0fd5-a427-4d05-8bc6-e35c85e3c412)
+![GitHub Banners](https://github.com/user-attachments/assets/94bd957b-7001-4893-bd66-c3da2c37e7b9)
 
 ## Table of contents
 
