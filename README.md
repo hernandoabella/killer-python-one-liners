@@ -183,82 +183,18 @@ print(celsius_to_fahrenheit(25))
 ```
 
 <details>
-  <summary><b>Walktrought:</b></summary>
-  <br/>
+  <summary><b>Walkthrough:</b></summary>
 
-#### Step 1: Define the Function
+  1. **def celsius_to_fahrenheit(celsius)** → defines the function to convert Celsius to Fahrenheit  
+     - **Example:** Input `celsius = 25`  
 
-```
-def celsius_to_fahrenheit(celsius):
-    return (celsius * 9/5) + 32
-```
+  2. **return (celsius * 9/5) + 32** → applies the conversion formula  
+     - **Example:** Calculation: `(25 * 9/5) + 32 = 77.0`  
 
-The function **celsius_to_fahrenheit** takes one parameter, celsius, which represents the temperature in degrees Celsius.
-
-It multiplies the Celsius value by **9/5** and adds **32** to get the equivalent Fahrenheit temperature.
-
-#### Step 2: Understanding the Formula**
-
-**The conversion formula between Celsius and Fahrenheit is:**
-
-```
-F = (C × 9/5) + 32
-```
-
-**Where:**
-
-```
-C is the temperature in Celsius.
-
-F is the temperature in Fahrenheit.
-```
-
-**For example, if we input 25°C into the function:**
-
-```
-F = (25 × 9/5) + 32
-F = (25 × 1.8) + 32
-F = 45 + 32
-F = 77
-```
-
-#### Step 3: Call the Function
-
-```
-print(celsius_to_fahrenheit(25))
-```
-
-This calls the function with 25 as the input, meaning celsius = 25.
-
-The function returns 77.0, which is printed to the console.
-
-#### Step 4: Expected Output
-
-```
-77.0
-```
-
-This means **25°C** is equivalent to **77°F**.
-
-#### Final Code with a More User-Friendly Output
-
-**If you want a more readable output:**
-
-```
-celsius = 25
-fahrenheit = celsius_to_fahrenheit(celsius)
-print(f"{celsius}°C is equal to {fahrenheit}°F")
-```
-
-Output:
-
-```
-25°C is equal to 77.0°F
-```
-
-Now you can convert any Celsius value to Fahrenheit using this function! 🔥
-  
+  3. **print(celsius_to_fahrenheit(25))** → calls the function with `25°C` and prints the result  
+     - **Example:** Output: `77.0°F` displayed in the console  
 </details>
+
 
 ### Convert RGB to Hex
 ### Simple Sum
